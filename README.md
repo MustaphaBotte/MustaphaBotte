@@ -53,8 +53,9 @@ Here are the technologies I work with:
 
 Here are a couple of projects I'm proud of:
 
-- **[Driving License Management System ]([link-to-project-one](https://github.com/MustaphaBotte/Diriving-License-Management-System))** DLMS is a comprehensive Driving License Management System developed as part of Course 19 on the Programming Advices platform.
-The project implements essential driving license services with custom features to streamline the management of driver records, license issuance, renewals, and related processes.
+- **[Driving License Management System](https://github.com/MustaphaBotte/Diriving-License-Management-System)** -
+- DLMS is a comprehensive Driving License Management System developed as part of Course 19 on the Programming Advices platform.
+- The project implements essential driving license services with custom features to streamline the management of driver records, license issuance, renewals, and related processes.
 
 ---
 
