@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate high school student diving deep into the world of software development. 
+I'm a passionate university student diving deep into the world of software development. 
 My focus is on building robust back-end systems and creating full-featured backends.
 
 - 🌍 **Based in:** Morocco
@@ -34,11 +34,6 @@ Here are the technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
 </p>
 
-
-### 📈 GitHub Stats
-
-<!-- This is a placeholder for your GitHub stats. You can generate these using services like https://github.com/anuraghazra/github-readme-stats -->
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustaphaBotte&show_icons=true&theme=radical)
 
 **Top Languages:**
 
