@@ -60,3 +60,20 @@ Here are a couple of projects I'm proud of:
 ---
 
 *“The computer was born to solve problems that did not exist before.” — Bill Gates*
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustaphaBotte&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaBotte&theme=radical" />
+</p>
+
+### 🔝 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+</p>
+
+
+
