@@ -77,7 +77,7 @@ Here are a few projects I'm proud of:
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+
 </p>
 
 ---
