@@ -64,8 +64,11 @@ Here are a couple of projects I'm proud of:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustaphaBotte&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaBotte&theme=radical" />
+  <!-- Stats Card (Alternative Service) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustaphaBotte&theme=radical" />
+  
+  <!-- Streak Stats (Working Service) -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical&hide_border=true" />
 </p>
 
 ### 🔝 Most Used Languages
