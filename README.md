@@ -32,9 +32,20 @@ Here are the technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
 </p>
 
-**Top Languages:**  
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaBotte&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔝 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+
+</p>
 
 ---
 
@@ -54,33 +65,7 @@ Here are a few projects I'm proud of:
 - **LinkedIn:** [Mustapha Botte](https://www.linkedin.com/in/mustaphabotte)  
 - **GitHub:** [MustaphaBotte](https://github.com/MustaphaBotte)  
 
----
 
-*"The computer was born to solve problems that did not exist before." — Bill Gates*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustaphaBotte&theme=radical&utcOffset=1" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaphaBotte&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔝 Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
-
-</p>
-
----
 
 ### 🚀 Goals
 
@@ -89,5 +74,8 @@ Here are a few projects I'm proud of:
 - Build real-world applications that solve practical problems efficiently.  
 
 ---
+---
 
-**Let's code something amazing together!**
+*"The computer was born to solve problems that did not exist before." — Bill Gates*
+
+---
