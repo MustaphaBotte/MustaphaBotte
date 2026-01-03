@@ -12,8 +12,8 @@ My focus is on building robust back-end systems and creating full-featured backe
 - 🌍 **Based in:** Morocco
 - 🎓 **Currently:** Intern at CMC
 - 💼 **Focus:** Back-End Development & Full-Stack Desktop Apps with C#/.NET
-![Profile views](https://komarev.com/ghpvc/?username=MustaphaBotte&style=flat-square)
 ---
+![Profile views](https://komarev.com/ghpvc/?username=MustaphaBotte&style=for-the-badge&color=blue)
 
 ### 🛠️ Languages & Tools
 
