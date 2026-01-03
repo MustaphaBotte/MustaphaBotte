@@ -32,11 +32,7 @@ Here are the technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
 </p>
 
-**Top Languages:**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaBotte&layout=compact&theme=radical)
-
----
 
 ### 📂 Highlighted Projects
 
