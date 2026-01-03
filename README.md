@@ -1,60 +1,95 @@
+# 👋 Hello, I'm Mustapha Botte
 
-### 🔧 Technologies Used
+**Second-Year Student at CMC Nouasseur | Back-End Developer | Full-Stack Desktop Developer**
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a passionate software developer exploring the world of backend systems and full-featured desktop applications. I focus on writing clean, maintainable, and high-performance code.  
+
+- 🌍 **Based in:** Morocco  
+- 🎓 **Current Role:** Intern at CMC  
+- 💼 **Specialization:** Back-End Development & Full-Stack Desktop Apps with C#/.NET  
+
+![Profile views](https://komarev.com/ghpvc/?username=MustaphaBotte&style=for-the-badge&color=blue)
+
+---
+
+### 🛠️ Languages & Tools
+
+Here are the technologies I work with:
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ADO.NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ADO.NET" width="40" height="40" title="ADO.NET"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="Windows Forms" width="40" height="40" title="Windows Forms"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" title="Microsoft SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
+</p>
+
+**Top Languages:**  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaBotte&layout=compact&theme=radical)
+
+---
+
+### 📂 Highlighted Projects
+
+Here are a few projects I'm proud of:
+
+- **[Driving License Management System](https://github.com/MustaphaBotte/Diriving-License-Management-System)**  
+  A comprehensive Driving License Management System built for Course 19 on Programming Advices.  
+  Features include: driver record management, license issuance, renewals, and advanced administrative tools.
+
+- **Other Projects** *(add here any other repos you want to highlight)*
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** [mostaphabotte@gmail.com](mailto:mostaphabotte@gmail.com)  
+- **LinkedIn:** [Mustapha Botte](https://www.linkedin.com/in/mustaphabotte)  
+- **GitHub:** [MustaphaBotte](https://github.com/MustaphaBotte)  
+
+---
+
+*"The computer was born to solve problems that did not exist before." — Bill Gates*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustaphaBotte&theme=radical&utcOffset=1" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaphaBotte&theme=radical" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🔝 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustaphaBotte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaBotte&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical&hide_border=true&fire=DD472C" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustaphaBotte&theme=radical&utcOffset=1" alt="Productive Time" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaphaBotte&theme=radical" alt="Profile Details" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Goals
 
-<p align="center">
-  <a href="mailto:mostaphabotte@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mustaphabotte">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MustaphaBotte">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- Level up my backend development skills in C#/.NET and SQL Server.  
+- Contribute to open-source projects and collaborate with other developers.  
+- Build real-world applications that solve practical problems efficiently.  
 
 ---
 
-### 💡 Development Philosophy
-
-> *"The computer was born to solve problems that did not exist before." — Bill Gates*
-
-I believe in writing clean, maintainable code that not only solves immediate problems but also anticipates future needs. My development approach emphasizes:
-
-- **🧹 Clean Code:** Following best practices and design patterns
-- **📚 Continuous Learning:** Staying updated with industry trends
-- **🤝 Collaboration:** Working effectively in team environments
-- **🎯 Problem-Solving:** Focusing on creating practical, efficient solutions
-
----
-
-⭐ *Feel free to explore my repositories and contribute to projects! Your feedback and collaboration are always welcome.*
+**Let's code something amazing together!**
