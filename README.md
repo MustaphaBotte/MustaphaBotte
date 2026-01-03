@@ -46,8 +46,6 @@ Here are a few projects I'm proud of:
   A comprehensive Driving License Management System built for Course 19 on Programming Advices.  
   Features include: driver record management, license issuance, renewals, and advanced administrative tools.
 
-- **Other Projects** *(add here any other repos you want to highlight)*
-
 ---
 
 ### 📫 Let's Connect
