@@ -35,10 +35,6 @@ Here are the technologies I work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MustaphaBotte&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustaphaBotte&theme=radical&utcOffset=1" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaphaBotte&theme=radical" height="180em" />
 </p>
