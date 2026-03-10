@@ -59,7 +59,7 @@ Here are a few projects I'm proud of:
   A comprehensive Driving License Management System built for Course 19 on Programming Advices.  
   Features include: driver record management, license issuance, renewals, and advanced administrative tools.
 
-- **[File Manager][(https://github.com/MustaphaBotte/Diriving-License-Management-System](https://github.com/MustaphaBotte/FileManager))**  
+- **[File Manager](https://github.com/MustaphaBotte/Diriving-License-Management-System](https://github.com/MustaphaBotte/FileManager))**  
   A comprehensive desktop application built with .NET 8 WinForms that provides secure file operations, cryptographic utilities, and password management.
   The application implements security best practices while offering a modern, user-friendly interface.
 ---
