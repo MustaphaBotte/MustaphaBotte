@@ -19,21 +19,26 @@ I'm a passionate software developer exploring the world of backend systems and f
 ### 🛠️ Languages & Tools
 
 Here are the technologies I work with:
-### 🛠️ Languages & Tools
 
 <p align="left">
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#"/><br/><sub><b>C#</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET"/><br/><sub><b>.NET</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/><br/><sub><b>C++</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" title="ADO.NET"/><br/><sub><b>ADO.NET</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" width="48" title="WinForms"/><br/><sub><b>WinForms</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlserver" width="48" title="SQL Server"/><br/><sub><b>SQL Server</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/><br/><sub><b>JavaScript</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" title="PHP"/><br/><sub><b>PHP</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" title="Visual Studio"/><br/><sub><b>Visual Studio</b></sub></a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ADO.NET" width="40" height="40" title="ADO.NET"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="Windows Forms" width="40" height="40" title="Windows Forms"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" title="Microsoft SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustaphaBotte&theme=radical&utcOffset=1" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaphaBotte&theme=radical" height="180em" />
+</p>
+
 
 ---
 
