@@ -24,29 +24,18 @@ I'm a passionate software developer exploring the world of backend systems and f
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" title=".NET"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" title="Visual Studio"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+</p>
 
 ---
 
