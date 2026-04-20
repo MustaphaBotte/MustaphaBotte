@@ -28,15 +28,11 @@ I'm a passionate software developer exploring the world of backend systems and f
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,nodejs,js,php,visualstudio,git,github&perline=9)](https://skillicons.dev)
 
-</div>
-
-&nbsp;
-
-<div align="center">
-
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/)
-[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="30" alt="ADO.NET"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" height="30" alt="Windows Forms"/>
 
 </div>
 
