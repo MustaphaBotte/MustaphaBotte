@@ -14,13 +14,11 @@
 
 I'm a passionate software developer exploring the world of backend systems and full-featured desktop applications. I focus on writing clean, maintainable, and high-performance code.
 
-| | |
-|---|---|
-| 🌍 **Location** | Morocco |
-| 🎓 **Role** | Intern at CMC Nouasseur |
-| 💼 **Specialization** | Back-End & Full-Stack Desktop Apps with C#/.NET |
-| 📬 **Email** | [mostaphabotte@gmail.com](mailto:mostaphabotte@gmail.com) |
-| 🔗 **LinkedIn** | [Mustapha Botte](https://www.linkedin.com/in/mustaphabotte) |
+- 🌍 **Location:** Morocco
+- 🎓 **Role:** Intern at CMC Nouasseur
+- 💼 **Specialization:** Back-End & Full-Stack Desktop Apps with C#/.NET
+- 📬 **Email:** [mostaphabotte@gmail.com](mailto:mostaphabotte@gmail.com)
+- 🔗 **LinkedIn:** [Mustapha Botte](https://www.linkedin.com/in/mustaphabotte)
 
 ---
 
@@ -28,21 +26,15 @@ I'm a passionate software developer exploring the world of backend systems and f
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,php,vscode,visualstudio,git,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,php,visualstudio,git,github&perline=8)](https://skillicons.dev)
 
 </div>
 
+&nbsp;
+
 <div align="center">
 
-| Technology | Purpose |
-|---|---|
-| **C# / .NET** | Primary language — desktop & backend |
-| **ADO.NET** | Data access & SQL integration |
-| **Windows Forms** | Desktop UI development |
-| **SQL Server** | Database design & management |
-| **C++** | Systems & performance-critical code |
-| **JavaScript / PHP** | Web development |
-| **Visual Studio** | Main IDE |
+`C#` &nbsp; `ADO.NET` &nbsp; `Windows Forms` &nbsp; `SQL Server` &nbsp; `C++` &nbsp; `JavaScript` &nbsp; `PHP` &nbsp; `Visual Studio`
 
 </div>
 
@@ -67,36 +59,19 @@ I'm a passionate software developer exploring the world of backend systems and f
 
 ### 📂 Highlighted Projects
 
-<table>
-<tr>
-<td width="50%">
-
 #### 🚗 [Driving License Management System](https://github.com/MustaphaBotte/Diriving-License-Management-System)
-A comprehensive system built for Course 19 on Programming Advices.
 
-**Features:**
-- Driver record management
-- License issuance & renewals
-- Advanced administrative tools
+A comprehensive system built for Course 19 on Programming Advices — driver record management, license issuance & renewals, and advanced administrative tools.
 
-**Stack:** `C#` `WinForms` `.NET` `SQL Server`
+`C#` · `WinForms` · `.NET` · `SQL Server`
 
-</td>
-<td width="50%">
+---
 
 #### 📁 [File Manager](https://github.com/MustaphaBotte/FileManager)
-A secure desktop application built with .NET 8 WinForms.
 
-**Features:**
-- Secure file operations
-- Cryptographic utilities
-- Password management
+A secure desktop application built with .NET 8 WinForms — secure file operations, cryptographic utilities, and password management with a modern UI.
 
-**Stack:** `C#` `.NET 8` `WinForms` `Cryptography`
-
-</td>
-</tr>
-</table>
+`C#` · `.NET 8` · `WinForms` · `Cryptography`
 
 ---
 
