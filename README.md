@@ -26,13 +26,25 @@ I'm a passionate software developer exploring the world of backend systems and f
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,nodejs,js,php,visualstudio,git,github&perline=9)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="30" alt="ADO.NET"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" height="30" alt="Windows Forms"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" title=".NET"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" title="Visual Studio"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
 
 </div>
 
