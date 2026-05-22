@@ -41,7 +41,7 @@ Here are the technologies I work with:
 ### 🔝 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=radical&exclude=HTML,CSS" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaphaBotte&theme=tokyonight&exclude=HTML,CSS" />
 
 </p>
 
