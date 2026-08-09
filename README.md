@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mustapha Botte
 
-**Second-Year Student at CMC Nouasseur | Back-End Developer | Full-Stack Desktop Developer**
+** Back-End Developer | Full-Stack Desktop Developer**
 
 ---
 
