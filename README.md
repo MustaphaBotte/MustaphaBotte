@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mustapha Botte
 
-** Back-End Developer | Full-Stack Desktop Developer**
+**Back-End Developer | Full-Stack Desktop Developer**
 
 ---
 
