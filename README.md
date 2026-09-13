@@ -9,7 +9,6 @@
 I'm a passionate software developer exploring the world of backend systems and full-featured desktop applications. I focus on writing clean, maintainable, and high-performance code.  
 
 - 🌍 **Based in:** Morocco  
-- 🎓 **Current Role:** Intern at CMC  
 - 💼 **Specialization:** Back-End Development & Full-Stack Desktop Apps with C#/.NET  
 
 ![Profile views](https://komarev.com/ghpvc/?username=MustaphaBotte&style=for-the-badge&color=blue)
